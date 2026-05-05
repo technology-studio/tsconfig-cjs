@@ -12,8 +12,8 @@
     "strictFunctionTypes": true,
     "sourceMap": true,
     "target": "ES2020",
-    "moduleResolution": "Node",
-    "module": "CommonJS",
+    "moduleResolution": "Node16",
+    "module": "Node16",
     "resolveJsonModule": true
   }
 }
